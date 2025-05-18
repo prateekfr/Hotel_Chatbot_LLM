@@ -78,7 +78,7 @@ Hotel_Chatbot_LLM/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/hotel-chatbot-llm.git
+git clone https://github.com/prateekfr/Hotel_Chatbot_LLM.git
 cd hotel-chatbot-llm
 ```
 
@@ -120,7 +120,7 @@ streamlit run app.py
 
 ```
 ### Instruction:
-What are the check-in and check-out timings at JW Marriott Bengaluru?
+What are the check-in and check-out timings
 
 ### Response:
 Check-in time is from 3:00 PM, and check-out is until 12:00 PM.
@@ -131,7 +131,7 @@ Check-in time is from 3:00 PM, and check-out is until 12:00 PM.
 ## 💡 Future Enhancements
 
 - Better Knowledge Base with multiple hotels for no RAG approach
-- Faster Retrival 
+- Faster Retrival and Query processing time
 - Experiments with other LLM models for better results without hallucinations
 - Using API keys not local installation of LLM
 
